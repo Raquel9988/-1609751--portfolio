@@ -12,3 +12,7 @@ Git was used for version control, and the site was deployed using GitHub Pages.
 
 
 
+This lab helped me understand how Git repositories are deployed using GitHub Pages.
+
+
+
